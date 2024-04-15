@@ -1,4 +1,4 @@
-#  Dropsoft - Xterio 
+# Xterio 
 
 ## 🔗 Links
 [![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/drop_software)](https://t.me/drop_software)
