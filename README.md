@@ -1,5 +1,5 @@
-#  StarLabs - Xterio 
-
+# Xterio 
+Required around 0.02 BNB per account to deposit for xter network
 ## 🔗 Links
 [![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/drop_software)](https://t.me/drop_software)
 
@@ -39,14 +39,24 @@ python main.py
 ```
 
 ### Config
+
 `referral_code` = referral code
+
 `attempts` = maximum number of attempts to complete the task
+
 `LAUNCH_TIME` = how often to run the script in hours
+
 `mobile_proxy` = mobile proxies (yes or no)
+
 `change_ip_pause` = pause after changing the IP of mobile proxies
+
 
 ### Data
 The data is in the data folder:
+
 `accounts.txt`          Contains accounts (private key or mnemo phrase)
+
 `proxies.txt`           Contains proxies in the format user:pass@ip:port
+
 `ip_change_links.txt`   Contains links to change mobile proxy IPs
+
