@@ -14,7 +14,6 @@ import random
 import time
 
 from extra.client import create_client
-# from extra.converter import mnemonic_to_private_key
 from model import constants
 
 
