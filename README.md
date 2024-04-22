@@ -5,7 +5,7 @@ Required around 0.02 BNB per account to deposit for xter network
 
 🔔 CHANNEL: https://t.me/drop_software
 
-💰 DONATION EVM ADDRESS: 0x9dBA8Ba2E1F00442b53775FCe236818BC73b1D48
+💰 DONATION EVM ADDRESS: 0xb1b1ac053248a2C88e32140e4691d2A8Be6Ab9c9
 
 ## 🤖 Features :
 
